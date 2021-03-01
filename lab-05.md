@@ -1,14 +1,11 @@
 Lab 05 - Nobel laureates
 ================
 
-Team Name:
+Team Name:Ds5
 
 Team Members - Name and Student ID
 
-1.  
-2.  
-3.  
-4.  
+1.nawal faleh almutairi 2201001107
 
 ## Packages
 
@@ -33,6 +30,8 @@ nobel <- read_csv("data/nobel.csv")
 
 1.  How many observations and how many variables are in the dataset? Use
     inline code to answer this question. What does each row represent?
+    opservation:953 variables:26 each row reprenst information about a
+    noble prize winner
 
 ``` r
 dim(nobel)
